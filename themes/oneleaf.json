@@ -1,0 +1,93 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "One Leaf",
+  "author": "Jasen <jasen215@gmail.com>",
+  "themes": [
+    {
+      "name": "One Leaf",
+      "appearance": "light",
+      "style": {
+        "background": "#FFFFFFff",
+        "text": "#000000ff",
+        "border": "#E0E0E0ff",
+        "line_highlight": "#EEF1F5ff",
+        "selection": {
+          "background": "#A7CAFFff"
+        },
+        "line_number": "#000000ff",
+        "active_line_number": "#000000ff",
+        "surface.background": "#e6e9ef",
+        "text.muted": "#5c5f77",
+        "text.placeholder": "#acb0be",
+        "text.disabled": "#bcc0cc",
+        "icon": "#4c4f69",
+        "icon.muted": "#8c8fa1",
+        "icon.disabled": "#9ca0b0",
+        "icon.placeholder": "#acb0be",
+        "search.match_background": "#c0c0c0",
+        "players": [
+          { "cursor": "#881181ff", "selection": "#88118140" },
+          { "cursor": "#053369ff", "selection": "#05336940" }
+        ],
+        "terminal.background": "#FFFFFFff",
+        "terminal.foreground": "#000000ff",
+        "version_control.added": "#40a02b",
+        "version_control.deleted": "#d20f39",
+        "version_control.modified": "#df8e1d",
+        "version_control.renamed": "#209fb5",
+        "version_control.conflict": "#fe640b",
+        "version_control.ignored": "#9ca0b0",
+        "link_text.hover": "#00000",
+        "conflict": "#00000",
+        "created": "#00000",
+        "deleted": "#00000",
+        "hidden": "#00000",
+        "hint": "#00000",
+        "ignored": "#00000",
+        "modified": "#df8e1d",
+        "predictive": "#00000",
+        "renamed": "#00000",
+        "info": "#00000",
+        "warning": "#df8e1d",
+        "error": "#00000",
+        "success": "#00000",
+        "unreachable": "#00000",
+        "syntax": {
+          "comment": {
+            "color": "#009000ff",
+            "font_style": "italic"
+          },
+          "string": { "color": "#ED7722ff" },
+          "keyword": { "color": "#CA0063ff" },
+          "keyword.control": { "color": "#AA2063ff" },
+          "keyword.operator": { "color": "#000000ff" },
+          "storage.type": { "color": "#CA0063ff" },
+          "function": { "color": "#053369ff" },
+          "function.call": { "color": "#163369ff" },
+          "variable": { "color": "#916305ff" },
+          "variable.parameter": { "color": "#053369ff" },
+          "variable.other": { "color": "#996633ff" },
+          "type": { "color": "#CC4C07ff" },
+          "type.class": { "color": "#CC4C07ff" },
+          "type.inherited": { "color": "#CC4C07ff" },
+          "constant": { "color": "#916319ff" },
+          "constant.numeric": { "color": "#0F20F6ff" },
+          "constant.language": { "color": "#000000ff" },
+          "attribute": { "color": "#881181ff" },
+          "property": { "color": "#881181ff" },
+          "error": { "color": "#DA2000ff" },
+          "warning": { "color": "#EDBA00ff" },
+          "number": { "color": "#0F20F6ff" },
+          "boolean": { "color": "#916319ff" },
+          "tag": { "color": "#881181ff" },
+          "operator": { "color": "#000000ff" },
+          "punctuation": { "color": "#000000ff" },
+          "punctuation.bracket": { "color": "#F02A1Dff" },
+          "punctuation.delimiter": { "color": "#000000ff" },
+          "link_text": { "color": "#053369ff" },
+          "link_uri": { "color": "#ED7722ff" }
+        }
+      }
+    }
+  ]
+}

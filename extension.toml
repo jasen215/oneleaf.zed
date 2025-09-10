@@ -1,0 +1,8 @@
+id = "oneleaf"
+name = "One Leaf"
+schema_version = 1
+version = "0.1.0"
+authors = ["Jasen <jasen215@gmail.com>"]
+description = "A Zed theme based on the Coda color scheme."
+repository = "https://github.com/jasen/oneleaf.zed"
+themes = ["themes/oneleaf.json"]
