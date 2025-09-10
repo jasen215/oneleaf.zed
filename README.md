@@ -11,4 +11,4 @@ A Zed theme based on the Coda color scheme.
 
 ## Preview
 
-![Theme Screenshot](https://raw.githubusercontent.com/jasen215/vscode-theme-coda/master/oneleaf.zed.png)
+![Theme Screenshot](https://raw.githubusercontent.com/jasen215/oneleaf.zed/refs/heads/main/oneleaf.zed.png)
